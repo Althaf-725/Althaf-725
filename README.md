@@ -1,5 +1,5 @@
 ## Hi there 👋
-Author - Shaik Althaf Basha
+Author - Shaik Althaf (Basha)
 <!--
 **Althaf-725/Althaf-725** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
