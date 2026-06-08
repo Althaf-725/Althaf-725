@@ -1,18 +1,75 @@
+# Hi, I'm Shaik Althaf Basha 👋
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mr_althaf_.shaik_?igsh=MXRqb3BxcXg4cHA5Mg==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shaik-althaf-basha-data-analyst/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bf6CIKp%2FZQpm%2FOiPLOXI6dw%3D%3D) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shaikalthaf0310@gmail.com) 
+### Aspiring Data Analyst
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Althaf-725&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Althaf-725&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Althaf-725&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I am passionate about transforming raw data into meaningful insights through data analysis, visualization, and machine learning.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Althaf-725&limit=5&theme=dark&combine_all_yearly_contributions=true)
+* 📊 Skilled in Python, SQL, Power BI, Advanced Excel, and Machine Learning
+* 📈 Interested in Data Analytics, Business Intelligence, and Data Visualization
+* 🚀 Currently building real-world analytics projects
+* 🌐 Portfolio: https://althaf-data-analyst-portfolio-rdx1.vercel.app/
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Althaf-725&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Skills
+
+### Programming & Data Analysis
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+### Data Visualization
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
+
+### Data Analytics
+
+![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-4CAF50?style=for-the-badge)
+![EDA](https://img.shields.io/badge/Exploratory_Data_Analysis-FF6F00?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-9C27B0?style=for-the-badge)
+![Dashboarding](https://img.shields.io/badge/Dashboarding-0288D1?style=for-the-badge)
+
+### Machine Learning
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
+
+---
+
+# 📜 Certifications
+
+* Google Analytics Certification
+* Power BI Certification
+* SQL Certification
+* Python for Data Analysis
+
+---
+
+# 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/shaik-althaf-basha-data-analyst/)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:shaikalthaf0310@gmail.com)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://althaf-data-analyst-portfolio-rdx1.vercel.app)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/mr_althaf_.shaik_)
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Althaf-725\&show_icons=true\&theme=github_dark)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Althaf-725\&theme=github-dark)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Althaf-725\&layout=compact\&theme=github_dark)
