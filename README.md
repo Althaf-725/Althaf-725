@@ -47,10 +47,18 @@ I am passionate about transforming raw data into meaningful insights through dat
 
 # 📜 Certifications
 
-* Google Analytics Certification
-* Power BI Certification
-* SQL Certification
-* Python for Data Analysis
+### Google Analytics Certification
+
+* Issued by Google
+* Credential: Google Analytics Certification
+* 🔗 Certificate:(https://skillshop.credential.net/9500b7c7-ef2f-4596-93b7-1fddaf697064#acc.sDZkbg3L)
+
+### Deloitte Data Analytics Job Simulation
+
+* Issued by Deloitte (Forage)
+* Completed practical tasks involving data analysis, data visualization, and business insights
+* 🔗 Certificate:(https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_698a991655430e2662ad85c5_1771071210070_completion_certificate.pdf)
+
 
 ---
 
